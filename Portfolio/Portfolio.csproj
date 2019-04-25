@@ -127,14 +127,40 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="contactform\contactform.js" />
+    <Content Include="contactform\Readme.txt" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="css\scss-files.txt" />
+    <Content Include="css\style-green.css" />
+    <Content Include="css\style-orange.css" />
+    <Content Include="css\style-purple.css" />
+    <Content Include="css\style-red.css" />
+    <Content Include="css\style-sky-blue.css" />
+    <Content Include="css\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="img\apple-touch-icon.png" />
+    <Content Include="img\counters-bg.jpg" />
+    <Content Include="img\favicon.png" />
+    <Content Include="img\intro-bg - Copy.jpg" />
+    <Content Include="img\intro-bg.jpg" />
+    <Content Include="img\overlay-bg.jpg" />
+    <Content Include="img\post-1.jpg" />
+    <Content Include="img\post-2.jpg" />
+    <Content Include="img\post-3.jpg" />
+    <Content Include="img\testimonial-2.jpg" />
+    <Content Include="img\work-1.jpg" />
+    <Content Include="img\work-2.jpg" />
+    <Content Include="img\work-3.jpg" />
+    <Content Include="img\work-4.jpg" />
+    <Content Include="img\work-5.jpg" />
+    <Content Include="img\work-6.jpg" />
+    <Content Include="js\main.js" />
     <Content Include="lib\animate\animate.css" />
     <Content Include="lib\animate\animate.min.css" />
     <Content Include="lib\bootstrap\css\bootstrap.css" />
@@ -213,8 +239,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
