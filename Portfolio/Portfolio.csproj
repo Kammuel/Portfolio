@@ -145,6 +145,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="img\.NETCertificate.png" />
+    <Content Include="img\AASDiploma.png" />
     <Content Include="img\apple-touch-icon.png" />
     <Content Include="img\counters-bg.jpg" />
     <Content Include="img\favicon.png" />
